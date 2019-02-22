@@ -52,6 +52,3 @@ with open('footballData.csv', 'a') as f:
 
 
 
-
-
-
