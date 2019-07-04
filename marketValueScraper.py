@@ -1,7 +1,7 @@
 from selenium import webdriver
 import os
 
-os.chdir('C:\\Users\\Ayoyinka Obisesan\\Desktop')
+os.chdir('C:\\Users\\EAGLE-AGE\\Documents\\Project\\Regression')
 with open('footballData.csv', 'w') as f:
     f.write('Player name,Position,Age,Market Value,NaN,Matches,\
             Goals,Own Goals,Assists,Yellow cards,Second Yellow card,\
